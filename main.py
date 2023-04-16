@@ -119,4 +119,4 @@ def message_reply(message):
 
 bot.polling(non_stop=True, interval=0)
 
-# RealYozha, 2023
+# RealYozha, 2023, v3.11
